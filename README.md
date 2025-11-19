@@ -8,6 +8,6 @@
 </head>
 <body>
     <!-- Your visible website content goes here -->
-    <h1 align = "center">GIS Portfolio/h1>
+    <h1 align = "center">GIS Portfolio </h1>
 </body>
 </html>
